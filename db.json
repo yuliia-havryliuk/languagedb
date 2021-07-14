@@ -16,37 +16,37 @@
   {
     "id": 3,
     "languageName": "English",
-    "initials": "EN",
+    "initials": "ENU",
     "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
   },
   {
     "id": 4,
     "languageName": "Deutsch",
-    "initials": "DE",
+    "initials": "GER",
     "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
   },
   {
     "id": 5,
     "languageName": "Chinese",
-    "initials": "CH",
+    "initials": "CHI",
     "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
   },
   {
     "id": 6,
     "languageName": "Portuguese",
-    "initials": "PT",
+    "initials": "POR",
     "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
   },
   {
     "id": 7,
     "languageName": "Spain",
-    "initials": "SP",
+    "initials": "SPA",
     "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
   },
   {
     "id": 8,
     "languageName": "Polish",
-    "initials": "PL",
+    "initials": "POL",
     "flagImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
   }
 ]
